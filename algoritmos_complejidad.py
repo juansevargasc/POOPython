@@ -1,0 +1,1 @@
+#TODO: Find an algorithm for each case ando show it's time
